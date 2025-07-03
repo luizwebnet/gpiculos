@@ -1,0 +1,9 @@
+# Ignorar ambiente virtual e banco
+env/
+data/
+*.sqlite
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+.env
