@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este é um assistente inteligente de busca de veículos, capaz de interpretar comandos em linguagem natural como:
+Este é um assistente inteligente de busca de veículos, *via terminal*, capaz de interpretar comandos em linguagem natural como:
 
 - "O que você tem aí de Toyota no ano 2011?"
 - "Busco um carro automático e econômico"
