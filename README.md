@@ -62,7 +62,7 @@ BASE_DB=sqlite:///data/database.sqlite
 3. Execute o sistema:
 
 ```bash
-python -main.py
+python main.py
 ```
 
 ---
